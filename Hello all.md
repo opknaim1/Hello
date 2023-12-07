@@ -47,7 +47,7 @@
     </section>
 
     <footer>
-        <p>Contact me at: your@email.com</p>
+        <p>Contact me at: opknaim@email.com</p>
     </footer>
 
 </body>
